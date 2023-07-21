@@ -555,7 +555,7 @@ margin-left: 3px;}
 
   @media only screen and (max-width: 768px) {
     .banner{
-        height: 170vh;
+        height: 120vh;
         
     }
 
@@ -573,7 +573,7 @@ margin-left: 3px;}
             width: 100%;}
     .btn-submit{
         position: absolute;
-        bottom: 60px;
+        bottom: 40px;
         left: 50%;
         transform: translate(-80px, 10px);
     }
