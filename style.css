@@ -577,6 +577,9 @@ margin-left: 3px;}
         left: 50%;
         transform: translate(-80px, 10px);
     }
+    section.range-slider input[type=range]{
+        width: 100%;
+    }
     section.range-slider {
         padding: 20px 0px;    }
     .custom-slider-nav{position: absolute;
